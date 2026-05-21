@@ -4,8 +4,6 @@
 
 This project is an exploratory data analysis (EDA) project that analyzes how student habits and lifestyle factors relate to academic performance. The analysis focuses on understanding patterns in study time, sleep duration, social media usage, Netflix consumption, attendance, part-time work, mental health, parental education level, and exam scores.
 
-The project was developed as part of a data analysis portfolio to demonstrate data cleaning, exploratory analysis, visualization, and insight generation using Python.
-
 ## Objectives
 
 The main objectives of this project are:
